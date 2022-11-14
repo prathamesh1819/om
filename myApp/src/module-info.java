@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author prath
+ *
+ */
+module myApp {
+}
