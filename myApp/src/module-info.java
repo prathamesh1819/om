@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author prath
- *
- */
-module myApp {
-}
